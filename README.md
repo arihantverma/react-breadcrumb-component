@@ -1,9 +1,7 @@
-# Reusable BreadCrumb Component Using React
+# Reusable BreadCrumb Component Using React With Compound Components Pattern
 
-## CRA Setup
+This repo is created with created react app.
 
 <br>
 
-### Features about this Breadcrumb Component
-
-To be updated with details soonn…
+This repository is intended to be used the code explained in [this video](https://youtu.be/s9K7el0LTIA)
